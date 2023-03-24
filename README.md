@@ -25,7 +25,7 @@ Hello there! My name is Kafui AKAKPO and I'm a beginner web developer. I'm passi
 [![](https://visitcount.itsvg.in/api?id=graciari2000&icon=8&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Kafui AKAKPO) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kafuiakp) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
